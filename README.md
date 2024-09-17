@@ -27,6 +27,7 @@ Key Features
 ---
 
 Page 2: Stores  
+Video Link: https://github.com/user-attachments/assets/c7cb88f2-5f46-4415-8ca1-54e8e4718f7b
 
 Key Features
 <UL>
@@ -40,6 +41,7 @@ Key Features
 ---
 
 Page 3: Brands
+Video Link: https://github.com/user-attachments/assets/d994bfc7-82a1-48a7-84e9-da740e91cc21
 
 Key Features
 <UL>
@@ -53,6 +55,7 @@ Key Features
 ---
 
 Page 4: Customers
+Video Link: https://github.com/user-attachments/assets/9e87930f-a414-48af-9bd2-702135d24a9b
 
 Key Features
 <UL>

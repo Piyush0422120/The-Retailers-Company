@@ -12,7 +12,8 @@ This project contains:
 
 ### Pages
 
-Page 1: Dashboard
+Page 1: Dashboard  
+https://github.com/user-attachments/assets/744ba44f-9e8d-4bc3-a0a6-2342c90e85b4
 
 
 

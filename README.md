@@ -87,9 +87,7 @@ Snapshot By Pages
 
 ---
 ---
-*See more images in Image folder  
-*You can also view videos from Video folder
-
+*You can also view images and videos in their respective folders.
 
 
 

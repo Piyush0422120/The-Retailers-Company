@@ -12,7 +12,8 @@ This project contains:
 
 ### Pages
 
-Page 1: Dashboard  
+Page 1: Dashboard   
+Video Link: https://github.com/user-attachments/assets/990ef521-55ff-4552-b5bb-313cbef511a5
 
 Key Features
 <UL>

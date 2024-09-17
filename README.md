@@ -66,6 +66,32 @@ Key Features
 <LI>Extra Filters: Location and date filters for granular data analysis.
 </UL>
 
+--- 
+Snapshot By Pages
+
+ Page 1: Dashboard   
+  <BR>
+![Dashboard Image](https://github.com/user-attachments/assets/2f5a95bb-4cb1-443d-87b6-fc2ad4214d7a)  
+
+ Page 2: Stores  
+  <BR>
+![Stores Image](https://github.com/user-attachments/assets/14458338-2ecd-41b5-b82a-270ab656d78d)
+
+ Page 3: Brands   
+  <BR>
+![Brands image](https://github.com/user-attachments/assets/d8a01b38-cc0c-4995-801e-7e3ce64479be)
+
+ Page 4: Customer  
+  <BR>
+![Customers Image](https://github.com/user-attachments/assets/d70a15e3-015d-4a3b-8b89-b9816af68824)
+
+---
+---
+*See more images in Image folder  
+*You can also view videos from Video folder
+
+
+
 
 
 

@@ -1,5 +1,5 @@
 # The Retailers Company
-This Power BI project offers a comprehensive analysis of a retail company's performance. By visualizing key metrics, understanding customer segments, tracking product trends, and assessing store-level analytics, businesses can make data-driven decisions to optimize operations and drive growth.
+This Power BI project offers a comprehensive analysis of a retail company's performance. By visualizing key metrics, understanding customer segments, tracking product trends, and assessing store-level analytics, businesses can make data-driven decisions to optimize operations and drive growth. 
   
 ---
 
